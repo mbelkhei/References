@@ -25,13 +25,18 @@
 [Udacity](https://www.udacity.com/)
 
 *PennState online*:
-- dsdsds
-- dsds
+- [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/)
+- [Applied Statistics](https://onlinecourses.science.psu.edu/stat414/)
+- [Regression Methods](https://onlinecourses.science.psu.edu/stat501/)
+- [Applied Multivariate Statistical Analysis](https://onlinecourses.science.psu.edu/stat505/)
+- [Applied Time Series Analysi](https://onlinecourses.science.psu.edu/stat510/)
+- [Applied Data Mining and Statistical Learning](https://onlinecourses.science.psu.edu/stat857/)
 
 
 **Jupyter notebooks**
 
 
 **Papers**
+
 [Tiydy Data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Hadley Wickham
 
