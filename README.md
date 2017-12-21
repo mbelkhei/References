@@ -10,9 +10,16 @@
 
 [Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference](https://www.amazon.com/Bayesian-Methods-Hackers-Probabilistic-Addison-Wesley/dp/0133902838) by Cameron Davidson 
 
+[Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057) by Jake VanderPlas
+
+[Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) by Joel Grus
+
 **online courses**
+
 Dataquest
+
 Datacamp
+
 Kaggle
 
 **Jupyter notebooks**
