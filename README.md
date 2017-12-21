@@ -41,10 +41,33 @@
 
 [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
+[Stats Models intro](https://github.com/thomas-haslwanter/statsintro_python/tree/master/ipynb)
+
+[Apache Spark](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab0-Tutorial.ipynb)
+
+[Applied Predictive Modeling with Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
+
+[Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
 
 
 **Papers**
+
+[How transferable are features in deep neural networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+
+[ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
+
+[http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a](Random Search for Hyper-Parameter Optimization)
+
+[Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+
+[Exploring the Limits of Language Modeling](https://arxiv.org/pdf/1602.02410.pdf)
+
+[Teaching Machines to Read and Comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+
+[Neural Architectures for Named Entity Recognition](http://aclweb.org/anthology/N/N16/N16-1030.pdf)
+
+[MEMORY NETWORKS](https://arxiv.org/pdf/1410.3916.pdf)
 
 [Tiydy Data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Hadley Wickham
 
