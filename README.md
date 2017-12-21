@@ -16,14 +16,22 @@
 
 **online courses**
 
-Dataquest
+[Dataquest](https://www.dataquest.io)
 
-Datacamp
+[Datacamp](https://www.datacamp.com)
 
-Kaggle
+[Udemy](https://www.udemy.com/)
+
+[Udacity](https://www.udacity.com/)
+
+*PennState online*:
+- dsdsds
+- dsds
+
 
 **Jupyter notebooks**
 
 
 **Papers**
+[Tiydy Data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Hadley Wickham
 
