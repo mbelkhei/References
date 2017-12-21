@@ -35,6 +35,9 @@
 
 **Jupyter notebooks**
 
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+[Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 
 **Papers**
 
