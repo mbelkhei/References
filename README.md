@@ -24,6 +24,8 @@
 
 [Udacity](https://www.udacity.com/)
 
+[Kdnuggets](https://www.kdnuggets.com)
+
 *PennState online*:
 - [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/)
 - [Applied Statistics](https://onlinecourses.science.psu.edu/stat414/)
@@ -40,7 +42,14 @@
 [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 
+
+
 **Papers**
 
 [Tiydy Data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf) Hadley Wickham
-
+[A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos
+[Top 10 algorithms in data mining](http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf) Xindong Wu et al
+[The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/)
+[Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) Robert E. Kass et al
+[Probabilistic machine learning and artificial intelligence](https://www.repository.cam.ac.uk/bitstream/handle/1810/248538/Ghahramani%202015%20Nature.pdf) Zoubin Ghahramani
+[A survey on platforms for big data analytics](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-014-0008-6) 
