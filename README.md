@@ -14,7 +14,7 @@
 
 [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) by Joel Grus
 
-**online courses**
+**Online courses**
 
 [Dataquest](https://www.dataquest.io)
 
